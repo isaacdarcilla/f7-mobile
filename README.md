@@ -1,4 +1,3 @@
-## ✨ Desktop Query
 
 <p align="center"><img src="https://cdn.framework7.io/i/logo-text-red.svg" width="400"></p>
 
@@ -22,6 +21,10 @@
 ## ✨ API Status
 
 [https://querybackend.herokuapp.com/](https://querybackend.herokuapp.com/)
+
+## ✨ API Documentations
+
+Message me at [(facebook.com/isaacdarcilla)](https://web.facebook.com/isaacdarcilla) for documentation.
 
 ## ✨ API Endpoints
 
