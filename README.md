@@ -2,8 +2,7 @@
 
 <p align="center"><img src="https://cdn.framework7.io/i/logo-text-red.svg" width="400"></p>
 
-<p align="center">🎉 Desktop query application for MIS built with Framework7 and Vue</p>
-<p align="center">built with</p>
+<p align="center">🎉 Desktop query application powered by Framework7 and Vue built with</p>
 
 <p align="center"><img src="https://onsenui.github.io/art/logos/monaca-logo-2.png" width="200"></p>
 
