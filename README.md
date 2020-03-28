@@ -1,13 +1,32 @@
-# framework7-authentication-demo
+## Desktop Query
 
-This is the source code for my tutorial video on [how to signup, login and logout users in Framework7 using Firebase](framework7-authentication-demo).
+Desktop query application for MIS built with Framework7 and Vue
 
-My blog: http://www.timo-ernst.net
+![Vue](https://cdn.framework7.io/i/logo-text-red.svg)
 
-My twitter: http://www.twitter.com/timo_ernst
+## Built with Monaca
 
-## NPM Scripts
+![Monaca](https://onsenui.github.io/art/logos/monaca-logo-2.png)
 
+## How to import project in Monaca?
+
+> [Importing Projects On Github with Monaca](https://docs.monaca.io/en/products_guide/monaca_ide/version_control/github_integration/)
+
+### Screenshot
+
+More screenshot can be found in ```screenshot```.
+
+![App](https://github.com/isaacdarcilla/DesktopQuery/blob/master/DeepinScreenshot_select-area_20191116162033.png)
+
+### License
+
+[Apache 2.0 License](https://github.com/isaacdarcilla/DesktopQuery/blob/master/LICENSE)
+
+## Installation
+
+* `git clone https://github.com/isaacdarcilla/f7-mobile.git` - clone the repository
+* `cd f7-mobile` - change to project directory
+* `npm install` - install npm package
 * `npm start` - run development server
 * `npm run build-prod` - build web app for production
 * `npm run build-dev` - build web app using development mode (faster build without minification and optimization)
