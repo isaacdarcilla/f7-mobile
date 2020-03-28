@@ -15,9 +15,24 @@
 * `npm run build-prod` - build web app for production
 * `npm run build-dev` - build web app using development mode (faster build without minification and optimization)
 
+## Demonstration
+
+* `git clone https://github.com/isaacdarcilla/f7-mobile.git` - clone the repository
+* `cd f7-mobile` - change to project directory
+* `cd www` - change to demo directory
+
+Open ```www/index.html``` file in your browser.
+
+* Username: ```isaac@csu.edu```
+* Password: ```1234```
+
 ## Importing project to Monaca
 
 * [Importing Projects On Github with Monaca](https://docs.monaca.io/en/products_guide/monaca_ide/version_control/github_integration/)
+
+## API Status
+
+[https://querybackend.herokuapp.com/](https://querybackend.herokuapp.com/)
 
 ## API Endpoints
 
