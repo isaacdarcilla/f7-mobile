@@ -3,14 +3,14 @@
   "private": true,
   "version": "7.8.2016",
   "description": "Desktop query application for MIS built with Framework7 and Vue",
-  "repository": "",
+  "repository": "https://github.com/isaacdarcilla/f7-mobile.git",
   "license": "MIT",
   "framework7": {
     "cwd": "C:\\Users\\Acer\\Desktop\\Dev\\mis-vue",
     "type": [
       "web"
     ],
-    "name": "f7-auth",
+    "name": "f7-mobile",
     "framework": "vue",
     "template": "single-view",
     "cssPreProcessor": false,
