@@ -19,7 +19,49 @@
 
 * [Importing Projects On Github with Monaca](https://docs.monaca.io/en/products_guide/monaca_ide/version_control/github_integration/)
 
-### Screenshot
+## API Endpoints
+
+* `GET` - Fetch all desktop.
+* `URL` - https://querybackend.herokuapp.com/fetch-desktops.php
+* `PARAM` - None
+
+```yaml
+[
+  {
+    "id": "25",
+    "archived": "0",
+    "desktopname": "DSKTP-MIS04",
+    "location": "Management Information Services",
+    "model": "Dell",
+    "updatedon": "November 09, 2019",
+    "frequency": "Twice",
+    
+    ...
+  }
+]
+```
+
+* `GET` - Fetch desktop by name.
+* `URL` - https://querybackend.herokuapp.com/fetch-desktops-by-name.php?desktopname=DSKTP-CE10
+* `PARAM` - desktopname
+
+```yaml
+[
+  {
+    "id": "10",
+    "archived": "1",
+    "desktopname": "DSKTP-CE10",
+    "location": "Office Of The College Of Engineering",
+    "model": "Dell",
+    "updatedon": "January 09, 2020",
+    "frequency": "No data available",
+    
+    ...
+  }
+]
+```
+
+## Screenshot
 
 More screenshot can be found in ```screenshot``` folder.
 
@@ -27,7 +69,7 @@ Home Tab  | Desktop Tab
 ------------- | -------------
 ![App](https://github.com/isaacdarcilla/f7-mobile/blob/master/screenshot/_home_isaac_Desktop_Dev_Vue_desktop-vue_www_index.html%20(2).png?raw=true) | ![App](https://github.com/isaacdarcilla/f7-mobile/blob/master/screenshot/_home_isaac_Desktop_Dev_Vue_desktop-vue_www_index.html%20(3).png)
 
-### License
+## License
 
 [Apache 2.0 License](https://github.com/isaacdarcilla/DesktopQuery/blob/master/LICENSE)
 
