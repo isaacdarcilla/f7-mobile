@@ -18,15 +18,13 @@
 
 * [Importing Projects On Github with Monaca](https://docs.monaca.io/en/products_guide/monaca_ide/version_control/github_integration/)
 
-## ✨ API Status
-
-[https://querybackend.herokuapp.com/](https://querybackend.herokuapp.com/)
-
 ## ✨ API Documentations
 
 Message me at [(facebook.com/isaacdarcilla)](https://web.facebook.com/isaacdarcilla) for documentation.
 
 ## ✨ API Endpoints
+
+* `ENDPOINT URL` - [https://querybackend.herokuapp.com/](https://querybackend.herokuapp.com/)
 
 * `GET` - Fetch all desktop.
 * `URL` - https://querybackend.herokuapp.com/fetch-desktops.php
