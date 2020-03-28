@@ -24,8 +24,6 @@ Message me at [(facebook.com/isaacdarcilla)](https://web.facebook.com/isaacdarci
 
 ## ✨ API Endpoints
 
-* `ENDPOINT URL` - [https://querybackend.herokuapp.com/](https://querybackend.herokuapp.com/)
-
 * `GET` - Fetch all desktop.
 * `URL` - https://querybackend.herokuapp.com/fetch-desktops.php
 * `PARAM` - None
