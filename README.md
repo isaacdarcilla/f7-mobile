@@ -6,7 +6,16 @@
 
 <p align="center"><img src="https://onsenui.github.io/art/logos/monaca-logo-2.png" width="200"></p>
 
-## How to import project in Monaca?
+## Installation
+
+* `git clone https://github.com/isaacdarcilla/f7-mobile.git` - clone the repository
+* `cd f7-mobile` - change to project directory
+* `npm install` - install npm package
+* `npm start` - run development server
+* `npm run build-prod` - build web app for production
+* `npm run build-dev` - build web app using development mode (faster build without minification and optimization)
+
+## Importing project to Monaca
 
 * [Importing Projects On Github with Monaca](https://docs.monaca.io/en/products_guide/monaca_ide/version_control/github_integration/)
 
@@ -21,15 +30,6 @@ Home Tab  | Desktop Tab
 ### License
 
 [Apache 2.0 License](https://github.com/isaacdarcilla/DesktopQuery/blob/master/LICENSE)
-
-## Installation
-
-* `git clone https://github.com/isaacdarcilla/f7-mobile.git` - clone the repository
-* `cd f7-mobile` - change to project directory
-* `npm install` - install npm package
-* `npm start` - run development server
-* `npm run build-prod` - build web app for production
-* `npm run build-dev` - build web app using development mode (faster build without minification and optimization)
 
 ## WebPack
 
