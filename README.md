@@ -8,13 +8,15 @@
 
 ## How to import project in Monaca?
 
-> [Importing Projects On Github with Monaca](https://docs.monaca.io/en/products_guide/monaca_ide/version_control/github_integration/)
+* [Importing Projects On Github with Monaca](https://docs.monaca.io/en/products_guide/monaca_ide/version_control/github_integration/)
 
 ### Screenshot
 
-More screenshot can be found in ```screenshot```.
+More screenshot can be found in ```screenshot``` folder.
 
-![App](https://github.com/isaacdarcilla/DesktopQuery/blob/master/DeepinScreenshot_select-area_20191116162033.png)
+Home Tab  | Desktop Tab
+------------- | -------------
+![App](https://github.com/isaacdarcilla/f7-mobile/blob/master/screenshot/_home_isaac_Desktop_Dev_Vue_desktop-vue_www_index.html%20(2).png?raw=true) | ![App](https://github.com/isaacdarcilla/f7-mobile/blob/master/screenshot/_home_isaac_Desktop_Dev_Vue_desktop-vue_www_index.html%20(3).png)
 
 ### License
 
