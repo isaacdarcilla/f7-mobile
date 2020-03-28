@@ -1,12 +1,11 @@
-## Desktop Query
+## ✨ Desktop Query
 
-Desktop query application for MIS built with Framework7 and Vue
+<p align="center"><img src="https://cdn.framework7.io/i/logo-text-red.svg" width="400"></p>
 
-![Vue](https://cdn.framework7.io/i/logo-text-red.svg)
+<p align="center">🎉 Desktop query application for MIS built with Framework7 and Vue</p>
+<p align="center">built with</p>
 
-## Built with Monaca
-
-![Monaca](https://onsenui.github.io/art/logos/monaca-logo-2.png)
+<p align="center"><img src="https://onsenui.github.io/art/logos/monaca-logo-2.png" width="200"></p>
 
 ## How to import project in Monaca?
 
