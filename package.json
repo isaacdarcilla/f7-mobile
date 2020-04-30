@@ -54,7 +54,7 @@
     "framework7": "^4.4.10",
     "framework7-icons": "^2.3.1",
     "framework7-vue": "^4.4.10",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "template7": "^1.4.2",
     "vue": "^2.6.10",
     "vuefire": "^2.1.2"
